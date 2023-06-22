@@ -26,5 +26,5 @@ RPGame Live consists of several different projects that pull together to make on
 -  Lastly, a website to tie the data together and allow further visual representation to a player.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=flavius-the-person&show_icons=true&theme=radical">)</p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=flavius-the-person"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=flavius-the-person&theme=radical"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=flavius-the-person"/></p>
