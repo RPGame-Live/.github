@@ -24,3 +24,6 @@ RPGame Live consists of several different projects that pull together to make on
   - Many more to come, some ideas plotted on an idea board and just not enough information to commit.
 
 -  Lastly, a website to tie the data together and allow further visual representation to a player.
+
+  
+![RPGame-Live's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPGame-Live&show_icons=true&theme=dark)
