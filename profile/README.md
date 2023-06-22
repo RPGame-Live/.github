@@ -4,6 +4,7 @@
 RPGame Live consists of several different projects that pull together to make one big experience: 
 
 - RPGame Live: Monogame, a JRPG Boss Fight Simulation designed around live streaming and having a streamer host the game while their viewers join the roster to battle alongside them against mighty foes.
+  - test
   - A host will launch a game and select either playing in Discord or Twitch.
   - Viewers will then be able to participate in their game by joining the roster.
   - A story may be given that leads up to fights and the roster will be faced against bosses to battle.
